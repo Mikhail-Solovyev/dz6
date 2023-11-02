@@ -1,0 +1,38 @@
+.carousel-inner img {
+    height: auto;
+    width: 40%;
+    margin: auto;
+  }
+.carouselExample{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background: #b11919;
+  }
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background: #ffffff;
+}
+.carousel-control-prev-icon{
+    background-color: rgb(255, 0, 0);
+    color: red;
+}
+.carousel-control-next-icon{
+    background-color:#ff0000;
+}
+.carousel-control-prev{
+    color: rgb(0, 255, 0);
+}
+.carousel-control-next{
+    color: #000000;
+}
+body{
+    background-image: url("nebo.jpg");
+    background-repeat: no-repeat;
+    background-position: center; 
+    background-size: 100% 
+}

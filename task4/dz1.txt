@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>dz1</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+<img src="stas.jpg" alt="">
+
+<h2>Соловьев Михаил Константинович</h2>
+<h3> О себе</h3>
+<div>
+    Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta aut iure atque molestias. Atque eius autem ipsa inventore consequuntur, necessitatibus non fugit commodi consequatur rem neque, dolores unde optio aspernatur.
+</div>
+<h3>
+    Контакты:
+</h3>
+<ul>
+    <li>+79210403672</li>
+    <li>mixail-sol2003@mail.ru</li>
+</ul>
+<h3>Мои навыки:</h3>
+<ul>
+    <li>html</li>
+    <li>css</li>
+</ul>
+<h3>Сертификаты</h3>
+<ol>
+    <li><a href="https://practicum.yandex.ru/">Яндекс_практикум</a></li>
+    <li><a href="https://doka.guide/html/">Дока</a></li>
+</ol>
+</body>
+</html>
