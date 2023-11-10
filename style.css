@@ -1,0 +1,26 @@
+h1{
+	color: blue;
+}
+p{
+	color: green !important;
+}
+body{
+	font-family: sans-serif; 
+}
+img{
+	cursor: pointer;
+}
+
+
+
+
+img:hover{
+	width: 50%; 
+}
+.pic{
+	padding: 50px;
+	margin: 50px;
+	background: green;
+	border:10px solid black;
+	width: 300px;
+}
